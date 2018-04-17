@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3LVN29M3CY.libify.notruf",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
